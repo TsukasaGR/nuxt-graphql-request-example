@@ -94,7 +94,8 @@
         fixed: false,
         items: [
           { icon: 'apps', title: 'Welcome', to: '/' },
-          { icon: 'bubble_chart', title: 'Inspire', to: '/inspire' }
+          { icon: 'bubble_chart', title: 'Inspire', to: '/inspire' },
+          { icon: 'fiber_new', title: 'GraphQL', to: '/graphql' }
         ],
         miniVariant: false,
         right: true,

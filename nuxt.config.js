@@ -1,5 +1,4 @@
 const pkg = require('./package')
-const extendConfig = require('./webpack.config.extend')
 
 module.exports = {
   mode: 'spa',
