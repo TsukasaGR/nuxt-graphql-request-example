@@ -48,16 +48,5 @@ module.exports = {
    ** Build configuration
    */
   build: {
-    /*
-     ** You can extend webpack config here
-     */
-    extend(config) {
-      extendConfig(config)
-    }
-  },
-
-  /*
-   ** Extensions
-   */
-  extensions: ['ts', 'js']
+  }
 }
